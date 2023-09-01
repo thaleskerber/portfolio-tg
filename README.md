@@ -4,35 +4,58 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/26208169?s=400&u=f6ea7d7b7ecf97876c976de51673c978508626c6&v=4" alt="Foto de perfil" width="150"/>
 
-'PARÁGRAFO DE INTRODUÇÃO PARA INSERIR AQUI'
+Atualmente sou estudante do curso superior de Análise e Desenvolvimento de Sistemas e estou no penúltimo período da faculdade.
+Meu interesse na área de programação começou durante o ensino médio, quando comecei a aprender e programar em Java para desenvolver modificações para o jogo Minecraft.
+
+Durante o segundo semestre da faculdade, consegui um estágio com a empresa parceira do Projeto Integrador desenvolvido e continuo trabalhando nela até hoje. No período do estágio adquiri um contato maior com a metodologia ágil e também aprendi a trabalhar com novas tecnologias que não são abordadas na faculdade, como o .NET por exemplo.
+
+Nesse documento será abordado o conteúdo de todos os Projetos Integradores desenvolvidos ao longo do curso e também estará disponível todas as tecnologias que foram utilizadas e também que tenho conhecimento.
 
 ## Contatos
-* [GITHUB](https://www.github.com/thaleskerber)
-* [LinkedIn](https://www.linkedin.com/in/thaleskerber)
+
+<a href="https://github.com/thaleskerber" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/thaleskerber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Meus Principais Conhecimentos
 
 Tecnologias que adquiri conhecimento ao longo do curso e também durante meu período de estágio e trabalho.
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&style=flat-square)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&style=flat-square)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&style=flat-square)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square)
+. Linguagens de programação:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+. Frameworks:
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+. Linguagens de marcação:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+. Banco de dados:
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+. Outros:
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Meus Projetos
-| Projetos Integradores | Ano |
-| 1º Semestre | 2021 |
-| 2º Semestre | 2022 |
-| 3º Semestre | 2022 |
-| 4º Semestre | 2023 |
-| 5º Semestre | 2023 |
+<div align="left">
+
+ |   Projeto  |  Período  |    Descrição    |
+ | :---   | :---    | :---      |
+ | [1° Semestre]()  | 2021 - 2º Semestre  | Website para visualização dos APIs desenvolvidos |
+ 
+ </div>
+
 
 ### Em 2021-2
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
