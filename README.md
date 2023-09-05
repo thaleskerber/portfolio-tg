@@ -48,30 +48,44 @@ Tecnologias que adquiri conhecimento ao longo do curso e também durante meu per
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Meus Projetos
-<div align="left">
+<br>
 
- |   Projeto  |  Período  |    Descrição    |
+ |   Projeto  |  Período  |    Empresa Parceira    |
  | :---   | :---    | :---      |
- | [1° Semestre]()  | 2021 - 2º Semestre  | Website para visualização dos APIs desenvolvidos |
+ | <a href="1sem">1° Semestre</a>  | 2021 - 2º Semestre  | Cliente Interno |
  
- </div>
 
+<div name="1sem"></div>
 
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+### Projeto Integrador 1º Semestre
 
-[GIT](https://www.git.com)
+O projeto integrador desenvolvido no primeiro semestre do curso foi feito com um cliente interno, um dos professores daquele período. O objetivo do projeto era manter um repositório com todos os Projetos Integradores desenvolvidos na FATEC São José dos Campos desde sua implementação, com o desenvolvimento de um site para a exposição desses projetos e um programa em Python para clonar repositórios git de forma ágil.
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+
+Nesse projeto utilizamos as seguintes tecnologias:
+
+##### Python
+. Utilizamos o Python para construir o programa que clona repositórios git de forma ágil.
+
+##### HTML
+. Utilizamos o HTML para a construção das páginas de exibição dos projetos.
+
+##### CSS
+. Utilizamos o CSS para a estilização das páginas de exibição dos projetos.
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Nesse projeto eu atuei como Scrum Master, liderando discussões com o time para coordenar nossas entregas e participando de reuniões com o restante da classe e com o professor responsável para alinhamentos e também para tratar impedimentos. Além disso também participei da construção das páginas desenvolvidas e da documentação do projeto feita no readme.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+
+
+#### Repostório
+Para visualizar o código desenvolvido e também acessar a documentação, acesse o link abaixo:
+
+[Repositório do Projeto](https://github.com/EquipeApolo/API_1SEM)
 
 
