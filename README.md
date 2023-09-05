@@ -57,33 +57,35 @@ Tecnologias que adquiri conhecimento ao longo do curso e também durante meu per
 
 <div name="1sem"></div>
 
-### Projeto Integrador 1º Semestre
+## Projeto Integrador 1º Semestre
 
 O projeto integrador desenvolvido no primeiro semestre do curso foi feito com um cliente interno, um dos professores daquele período. O objetivo do projeto era manter um repositório com todos os Projetos Integradores desenvolvidos na FATEC São José dos Campos desde sua implementação, com o desenvolvimento de um site para a exposição desses projetos e um programa em Python para clonar repositórios git de forma ágil.
 
-#### Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
-Nesse projeto utilizamos as seguintes tecnologias:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-##### Python
-. Utilizamos o Python para construir o programa que clona repositórios git de forma ágil.
 
-##### HTML
-. Utilizamos o HTML para a construção das páginas de exibição dos projetos.
-
-##### CSS
-. Utilizamos o CSS para a estilização das páginas de exibição dos projetos.
-
-#### Contribuições Pessoais
+### Contribuições Pessoais
 Nesse projeto eu atuei como Scrum Master, liderando discussões com o time para coordenar nossas entregas e participando de reuniões com o restante da classe e com o professor responsável para alinhamentos e também para tratar impedimentos. Além disso também participei da construção das páginas desenvolvidas e da documentação do projeto feita no readme.
 
-#### Hard Skills
+### Hard Skills
 
+- Desenvolvimento WEB (Utilizando HTML & CSS)
+- Python (Para a aplicação de clonagem)
+- Controle de versionamento (GIT)
 
-#### Soft Skills
+### Soft Skills
 
+- Comunicação (Reuniões e alinhamentos com o time)
+- Organização (Mantendo a organização do projeto e das tarefas)
+- Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
 
-#### Repostório
+### Repostório
 Para visualizar o código desenvolvido e também acessar a documentação, acesse o link abaixo:
 
 [Repositório do Projeto](https://github.com/EquipeApolo/API_1SEM)
