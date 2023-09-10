@@ -101,19 +101,26 @@ Alguns dos cursos realizados e certificados.
 
 <div name="1sem"></div>
 
+<div align='center'>
+
 ## :star: Projeto Integrador 1º Semestre
+ 
+</div>
+
 > [Repositório do Projeto](https://github.com/EquipeApolo/API_1SEM)
 
 O projeto integrador desenvolvido no primeiro semestre do curso foi feito com um cliente interno, um dos professores daquele período. O objetivo do projeto era manter um repositório com todos os Projetos Integradores desenvolvidos na FATEC São José dos Campos desde sua implementação, com o desenvolvimento de um site para a exposição desses projetos e um programa em Python para clonar repositórios git de forma ágil.
 
 <br />
 
+## Demonstrações
+
 ![python_1api](https://github.com/thaleskerber/portifolio-tg/assets/26208169/90b33d15-1daf-40bd-94eb-f8fbe3a5c190)
 ![site_1api](https://github.com/EquipeApolo/API_1SEM/blob/main/imagens/site_sprint2.gif)
 
 <br />
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -122,16 +129,16 @@ O projeto integrador desenvolvido no primeiro semestre do curso foi feito com um
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-### Contribuições Pessoais
+## Contribuições Pessoais
 Nesse projeto eu atuei como Scrum Master, liderando discussões com o time para coordenar nossas entregas e participando de reuniões com o restante da classe e com o professor responsável para alinhamentos e também para tratar impedimentos. Além disso também participei da construção das páginas desenvolvidas e da documentação do projeto feita no readme.
 
-### Hard Skills
+## Hard Skills
 
 - Desenvolvimento WEB (Utilizando HTML & CSS)
 - Python (Para a aplicação de clonagem)
 - Controle de versionamento (GIT)
 
-### Soft Skills
+## Soft Skills
 
 - Comunicação (Reuniões e alinhamentos com o time)
 - Organização (Mantendo a organização do projeto e das tarefas)
