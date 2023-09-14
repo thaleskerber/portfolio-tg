@@ -144,4 +144,49 @@ Nesse projeto eu atuei como Scrum Master, liderando discussões com o time para 
 - Organização (Mantendo a organização do projeto e das tarefas)
 - Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
 
+<br />
+
+<div name="2sem"></div>
+
+<div align='center'>
+
+## :star: Projeto Integrador 2º Semestre
+ 
+</div>
+
+> [Repositório do Projeto](https://github.com/EquipeApolo/API-2-Semestre)
+
+O projeto integrador desenvolvido no segundo semestre do curso foi feito com a empresa parceira Pro4Tech, que inclusive cedeu vagas de estágio para mim e também para outros colegas ao longo do projeto. O objetivo desse projeto foi a criação de uma aplicação JAVA Desktop com a finalidade de organizar a comunicação da empresa com os clientes, permitindo a inclusão de mensagens recebidas em outras plataformas para manter um histórico de cada comunicação.
+
+<br />
+
+## Demonstrações
+
+<p align="center"> <img src = "https://github.com/Equipe3-API/API-2-Semestre/blob/main/Imagens%20README/Gif-Sprint3.gif"></p>
+
+<br />
+
+## Tecnologias Utilizadas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Contribuições Pessoais
+Nesse projeto eu atuei como principal desenvolvedor, já que era o único em minha equipe que possuia conhecimento em JAVA. Trabalhei no desenvolvimento dos CRUDs e também nas lógicas de navegação entre as interfaces do projeto. 
+
+## Hard Skills
+
+- Desenvolvimento em JAVA
+- Banco de Dados
+- Controle de versionamento (GIT)
+
+## Soft Skills
+
+- Comunicação (Participação das reuniões com a equipe)
+- Colaboração (Contato com a equipe para auxiliar no entendimento e desenvolvimento do projeto)
+- Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
+
 
