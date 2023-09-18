@@ -91,11 +91,11 @@ Alguns dos cursos realizados e certificados.
 
  |   Projeto  |  Período  |    Empresa Parceira    |
  | :---   | :---    | :---      |
- | <a href="1sem">1° Semestre</a>  | 2021 - 2º Semestre  | Cliente Interno |
- | <a href="2sem">2° Semestre</a>  | 2022 - 1º Semestre  | Pro4Tech |
- | <a href="3sem">3° Semestre</a>  | 2022 - 2º Semestre  | Embraer |
- | <a href="4sem">4° Semestre</a>  | 2023 - 1º Semestre  | IonicHealth |
- | <a href="5sem">5° Semestre</a>  | 2023 - 2º Semestre  | Imagem |
+ | [1º Semestre](https://github.com/thaleskerber/portifolio-tg#1sem)  | 2021 - 2º Semestre  | Cliente Interno |
+ | [2º Semestre](https://github.com/thaleskerber/portifolio-tg#2sem) | 2022 - 1º Semestre  | Pro4Tech |
+ | [3º Semestre](https://github.com/thaleskerber/portifolio-tg#3sem)  | 2022 - 2º Semestre  | Embraer |
+ | [4º Semestre](https://github.com/thaleskerber/portifolio-tg#4sem)  | 2023 - 1º Semestre  | IonicHealth |
+ | 5° Semestre  | 2023 - 2º Semestre  | Imagem |
 
  
 <br />
