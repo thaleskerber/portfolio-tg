@@ -37,9 +37,7 @@ Nesse documento será abordado o conteúdo de todos os Projetos Integradores des
 
  <br />
 
-Tecnologias que adquiri conhecimento ao longo do curso e também durante meu período de estágio e trabalho.
-
-. Linguagens de programação:
+- Linguagens de programação:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,22 +45,25 @@ Tecnologias que adquiri conhecimento ao longo do curso e também durante meu per
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-. Frameworks:
+- Frameworks:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-. Linguagens de marcação:
+- Linguagens de marcação:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-. Banco de dados:
+- Banco de dados:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-. Outros:
+- Outros:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -216,6 +217,7 @@ O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -237,5 +239,55 @@ Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto
 - Colaboração (Participação no desenvolvimento das tasks)
 - Organização (Mantendo a organização do projeto e das tasks)
 - Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
+<br />
 
+<div name="4sem"></div>
+
+<div align='center'>
+
+## :star: Projeto Integrador 4º Semestre - SolutionSpace
+ 
+</div>
+
+> [Repositório do Projeto](https://github.com/CodeLabFatec/SolutionSpace)
+
+O projeto integrador desenvolvido no quarto semestre do curso foi feito com a empresa parceira IonicHealth. O objetivo do projeto realizado foi o desenvolvimento de uma aplicação de gerenciamento de chamados internos. Os chamados são referentes a solicitações de feature/correções de bugs de sistemas fornecidos para outras empresas. O gerenciamento desses chamados era feito por meio de duas etapas, onde o sistema permitia uma configuração de avaliação por etapa, deixando livre para os administradores poderem escolher formas de aprovar/reprovar solicitações automaticamente em cada etapa.
+
+<br />
+
+## Demonstrações
+
+<p align="center">
+
+https://github.com/CodeLabFatec/SolutionSpace/assets/26208169/36e0b209-5fb1-4365-b618-7891862fd56c
+ 
+</p>
+
+<br />
+
+## Tecnologias Utilizadas
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Contribuições Pessoais
+Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto e mantendo contato com o representante da empresa parceira (Cliente). Também auxiliei no desenvolvimento de algumas tasks e também estive ao lado acompanhando a equipe de desenvolvimento ao longo do projeto.
+
+## Hard Skills
+
+- Desenvolvimento em Typescript
+- Desenvolvimento Web em React
+- Banco de Dados
+
+## Soft Skills
+
+- Organização (Mantendo a organização do projeto e das tasks)
+- Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
+- Comunicação (Participação das reuniões com a equipe e também com o cliente)
 
