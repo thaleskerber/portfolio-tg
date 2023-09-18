@@ -100,6 +100,8 @@ Alguns dos cursos realizados e certificados.
  
 <br />
 
+---
+
 <div name="1sem"></div>
 
 <div align='center'>
@@ -147,6 +149,8 @@ Nesse projeto eu atuei como Scrum Master, liderando discussões com o time para 
 
 <br />
 
+---
+
 <div name="2sem"></div>
 
 <div align='center'>
@@ -191,6 +195,8 @@ Nesse projeto eu atuei como principal desenvolvedor, já que era o único em min
 - Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
 
 <br />
+
+---
 
 <div name="3sem"></div>
 
@@ -239,7 +245,10 @@ Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto
 - Colaboração (Participação no desenvolvimento das tasks)
 - Organização (Mantendo a organização do projeto e das tasks)
 - Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
+
 <br />
+
+---
 
 <div name="4sem"></div>
 
