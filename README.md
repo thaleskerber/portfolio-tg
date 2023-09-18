@@ -91,10 +91,10 @@ Alguns dos cursos realizados e certificados.
  |   Projeto  |  Período  |    Empresa Parceira    |
  | :---   | :---    | :---      |
  | <a href="1sem">1° Semestre</a>  | 2021 - 2º Semestre  | Cliente Interno |
- | <a href="1sem">2° Semestre</a>  | 2022 - 1º Semestre  | Pro4Tech |
- | <a href="1sem">3° Semestre</a>  | 2022 - 2º Semestre  | Embraer |
- | <a href="1sem">4° Semestre</a>  | 2023 - 1º Semestre  | IonicHealth |
- | <a href="1sem">5° Semestre</a>  | 2023 - 2º Semestre  | Imagem |
+ | <a href="2sem">2° Semestre</a>  | 2022 - 1º Semestre  | Pro4Tech |
+ | <a href="3sem">3° Semestre</a>  | 2022 - 2º Semestre  | Embraer |
+ | <a href="4sem">4° Semestre</a>  | 2023 - 1º Semestre  | IonicHealth |
+ | <a href="5sem">5° Semestre</a>  | 2023 - 2º Semestre  | Imagem |
 
  
 <br />
@@ -187,6 +187,55 @@ Nesse projeto eu atuei como principal desenvolvedor, já que era o único em min
 
 - Comunicação (Participação das reuniões com a equipe)
 - Colaboração (Contato com a equipe para auxiliar no entendimento e desenvolvimento do projeto)
+- Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
+
+<br />
+
+<div name="3sem"></div>
+
+<div align='center'>
+
+## :star: Projeto Integrador 3º Semestre
+ 
+</div>
+
+> [Repositório do Projeto](https://github.com/EquipeApolo/API_3_Semestre)
+
+O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a empresa parceira Embraer. O objetivo do projeto foi a criação de um site para que o usuário (piloto de avião) pudesse calcular, a partir de parâmetros do ambiente e também do avião (dados cadastráveis), o comprimento mínimo que uma pista de pousa deve ter para que ele possa pousar.
+
+<br />
+
+## Demonstrações
+
+<p align="center"> <img src = "https://github.com/EquipeApolo/API_3_Semestre/blob/main/imagens/sprint_4.gif"></p>
+
+<br />
+
+## Tecnologias Utilizadas
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Contribuições Pessoais
+Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto e mantendo contato com o representante da empresa parceira (Cliente). Também auxiliei no desenvolvimento de algumas tasks e também estive ao lado acompanhando a equipe de desenvolvimento ao longo do projeto.
+
+## Hard Skills
+
+- Desenvolvimento em Typescript
+- Desenvolvimento Web em React
+- Banco de Dados
+- Controle de versionamento (GIT)
+
+## Soft Skills
+
+- Comunicação (Participação das reuniões com a equipe e também com o cliente)
+- Colaboração (Participação no desenvolvimento das tasks)
+- Organização (Mantendo a organização do projeto e das tasks)
 - Proatividade (Buscando sempre estar cada vez mais interado no desenvolvimento do projeto)
 
 
