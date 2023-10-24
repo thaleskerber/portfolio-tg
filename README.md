@@ -166,13 +166,13 @@ Nesse projeto eu atuei como Scrum Master, liderando discussões com o time para 
 ## Soft Skills
 
 - ### Comunicação
-> Habilidade desenvolvida durante as reuniões e discussões internas sobre o projeto.
+> Desenvolvi minha habilidade de comunicação ao participar ativamente de reuniões e discussões sobre o projeto. Isso me ajudou a compartilhar minhas ideias e colaborar de maneira mais eficaz com meus colegas de equipe.
 
 - ### Organização
-> Habilidade desenvolvida durante a organização das atividades desenvolvidas e também da documentação do projeto.
+> Manter a organização foi essencial para o sucesso do meu trabalho. Aprimorei essa habilidade ao organizar minhas tarefas e manter a documentação do projeto em ordem. Isso me permitiu manter o foco e evitar confusões ao longo do projeto.
 
 - ### Proatividade
-> Habilidade desenvolvida durante todo o projeto, ao lado dos membros da equipe.
+> A proatividade foi uma qualidade que usei durante todo o projeto. Trabalhei ao lado dos membros da equipe para antecipar problemas e agir prontamente. Isso me ajudou a superar desafios e alcançar nossos objetivos de forma eficiente.
 
 <br />
 
@@ -231,13 +231,13 @@ Nesse projeto eu atuei como principal desenvolvedor, já que era o único em min
 ## Soft Skills
 
 - ### Comunicação
-> Habilidade desenvolvida ao lado dos membros da equipe, buscando estar todos em sintonia.
+>  Durante o desenvolvimento do projeto, pude exercitar minha habilidade de expressar ideias com melhor clareza e também aprendi a ouvir e compreender melhor as necessidades de minha equipe, que utilizei para auxiliar os colegas a entenderem melhor a nova tecnologia utilizada.
 
 - ### Colaboração
-> Habilidade utilizada para auxiliar os membros da equipe a desenvolver na linguagem do projeto.
+> Exercitei essa skill de colaboração para compartilhar meu conhecimento prévio na linguagem para minha equipe e também para ajudar na organização das documentações do projeto.
 
 - ### Proatividade
-> Pelo meu conhecimento prévio na linguagem, consegui buscar soluções e abordagens diferentes.
+> Durante as sprints busquei ser proativo o máximo possível, buscando interesse nas tasks a serem desenvolvidas e também no entendimento geral da equipe sobre os requisitos.
 
 <br />
 
@@ -294,7 +294,7 @@ O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a 
 > Utilizado para versionamento e armazenamento do código e documentação.
 
 ## Contribuições Pessoais
-Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto e mantendo contato com o representante da empresa parceira (Cliente). Também auxiliei no desenvolvimento de algumas tasks e também estive ao lado acompanhando a equipe de desenvolvimento ao longo do projeto. Utilizei o Javascript/Typescript no desenvolvimento frontend, ao lado do React.
+Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto e mantendo contato com o representante da empresa parceira (Cliente). Também auxiliei no desenvolvimento de algumas tasks e também estive ao lado acompanhando a equipe de desenvolvimento ao longo do projeto. Utilizei o Typescript no desenvolvimento frontend, ao lado do React e também participei da solução que entregamos para a realização do cálculo, montando a arquitetura e auxiliando outros colegas no desenvolvimento do cálculo.
 
 ## Hard Skills
 
@@ -312,17 +312,14 @@ Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto
 
 ## Soft Skills
 
-- ### Comunicação
-> Habilidade utilizada para criar sintonia com os membros da equipe e também alinhar pontos do projeto com o cliente.
-
 - ### Colaboração
-> Como PO, também colaborei no desenvolvimento de atividades de frontend e também em discussões sobre a realização do cálculo.
+> Além das funções exercidas como PO, colaborei no desenvolvimento de atividades de frontend e também em discussões sobre a realização do cálculo.
 
 - ### Organização
-> Habilidade utilizada para manter a organização da documentação e das tasks.
+> Utilizei essa habilidade para manter a organização do projeto e também do backlog, mantendo-o sempre atualizado e também cuidado de toda a parte de documentação da descrição do projeto.
 
 - ### Trabalho em equipe
-> Como citado nas habilidades anteriores, atuei sempre ao lado da equipe para o desenvolvimento e alinhamento de tasks.
+> Como citado nas habilidades anteriores, atuei sempre ao lado da equipe para o desenvolvimento e alinhamento de tasks, e também para o entendimento geral dos requisitos do projeto.
 
 <br />
 
@@ -384,7 +381,7 @@ https://github.com/CodeLabFatec/SolutionSpace/assets/26208169/36e0b209-5fb1-4365
 
 
 ## Contribuições Pessoais
-Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto e mantendo contato com o representante da empresa parceira (Cliente). Também auxiliei no desenvolvimento de algumas tasks e também estive ao lado acompanhando a equipe de desenvolvimento ao longo do projeto. Utilizei o Javascript/Typescript no desenvolvimento frontend, ao lado do React.
+Nesse projeto eu atuei como Product Owner (PO) e também como desenvolvedor frontend. Construi o backlog do produto e mantive contato constante com o representante da empresa parceira (Cliente) ao mesmo tempo que atuei no desenvolvido de interfaces e funcionalidades específicas do projeto, como os sistemas de autenticação, interfaces para as avaliações e a funcionalidade do kanban, todas utilizando as tecnologias Typescript e React.
 
 ## Hard Skills
 
@@ -400,11 +397,11 @@ Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto
 ## Soft Skills
 
 - ### Colaboração
-> Como PO, atuei para buscar todos os requisitos com o cliente e também no desenvolvimento de interfaces do sistema.
+> Nesse projeto mantive minha função de PO e utilizei essa skill para, além de manter um canal de comunicação preciso com o cliente, participar do desenvolvimento de partes críticas do sistema.
 
 - ### Organização
-> Habilidade utilizada para manter a organização das tasks e também na documentação do projeto.
+> Habilidade utilizada para manter minha nova equipe organizada e em sintonia com os requisitos a serem desenvolvidos.
 
 - ### Comunicação
-> Habilidade utilizada em conjunto com a de Colaboração, sendo usada tanto para discussões internas quanto externas (cliente).
+> Utilizei essa skill nesse projeto de forma mais aprimorada, após mudar de equipe tive que moldar novos relacionamentos com a equipe e também ser sempre o mais claro possível.
 
