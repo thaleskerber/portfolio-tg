@@ -405,3 +405,87 @@ Nesse projeto eu atuei como Product Owner (PO) e também como desenvolvedor fron
 - ### Comunicação
 > Utilizei essa skill nesse projeto de forma mais aprimorada, após mudar de equipe tive que moldar novos relacionamentos com a equipe e também ser sempre o mais claro possível.
 
+<br />
+
+---
+
+<div name="5sem"></div>
+
+<div align='center'>
+
+## :star: Projeto Integrador 5º Semestre - EquipControl
+ 
+</div>
+
+> [Repositório do Projeto](https://github.com/CodeLabFatec/EquipControl)
+
+O projeto integrador desenvolvido no quinto semestre do curso foi feito com a empresa parceira Imagem. O objetivo do projeto realizado foi o desenvolvimento de uma aplicativo de celular para o gerenciamento de equipamentos de quaisquer gêneros, por exemplo: equipamentos de eletrônica, saneamento, telecomunicações, etc. Esse gerenciamento consiste de, além de cadastros, a realização de manobras nos equipamentos, que é a ação de controlar o status do equipamento entre 'ativo' e 'inativo'. Além disso o sistema cumpre requisitos de exibição de equipamentos em mapa e também crud completo de usuários.
+
+
+<br />
+
+## Demonstrações
+
+<p align="center">
+
+
+ 
+</p>
+
+<br />
+
+## Tecnologias Utilizadas
+
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br />
+> Utilizado para o desenvolvimento do frontend.
+
+<br />
+
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br />
+> Utilizado para o desenvolvimento do backend.
+
+<br />
+
+ ![React Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br />
+> Utilizado como framework para o desenvolvimento do frontend.
+
+<br />
+
+ ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br />
+> Utilizada como runtime para o desenvolvimento de ambas as partes do projeto (frontend e backend).
+
+<br />
+
+ ![MongoDB](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br />
+> Utilizado como banco de dados do projeto.
+
+<br />
+
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br />
+> Utilizado para versionamento e armazenamento do código e documentação.
+
+
+## Contribuições Pessoais
+Nesse projeto eu atuei como Product Owner (PO) e também como um dos desenvolvedores. Ou seja, além de atuar na construção e gerenciamento do backlog total e das sprints, cuidei do desenvolvimento de algumas partes do sistema, principalmente na parte de integrar o aplicativo com o nosso servidor.
+
+## Hard Skills
+
+- ### Desenvolvimento em Typescript
+> Sei fazer com autonomia.
+
+- ### Desenvolvimento mobile em React Native
+> Sei fazer com autonomia.
+
+- ### Banco de Dados - MongoDB
+> Sei fazer com autonomia
+
+## Soft Skills
+
+- ### Colaboração
+> Nesse projeto mantive minha função de PO e utilizei essa skill para, além de manter um canal de comunicação preciso com o cliente, participar do desenvolvimento de partes críticas do sistema.
+
+- ### Organização
+> Habilidade utilizada para manter minha nova equipe organizada e em sintonia com os requisitos a serem desenvolvidos.
+
+- ### Comunicação
+> Utilizei essa skill nesse projeto de forma mais aprimorada, após mudar de equipe tive que moldar novos relacionamentos com a equipe e também ser sempre o mais claro possível.
