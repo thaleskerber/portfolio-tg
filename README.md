@@ -84,7 +84,7 @@ Alguns dos cursos realizados e certificados.
 | Laboratório de POO Parte 2 | ![USP](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)  |  [Certificado](https://www.coursera.org/verify/WFKCVB9YALA5) |
 | Design Patterns | ![University of Alberta](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) |  [Certificado](https://www.coursera.org/verify/5NLNPD6ULYVM) |
 | Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  [Certificado](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/3e8956ac-57fa-4404-8246-895ffa63bfb5-thales-kerber-1f96366e-0cfd-4744-b3bb-bd563a8ef0e7-certificate.pdf) |
-| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Em curso]() |
+| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Certificado](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/3e8956ac-57fa-4404-8246-895ffa63bfb5-thales-kerber-ade74e93-024a-4b24-a6fe-c005643eb70e-certificate.pdf) |
 
 <br />
 
@@ -98,7 +98,7 @@ Alguns dos cursos realizados e certificados.
  | [2º Semestre](https://github.com/thaleskerber/portifolio-tg#2sem) | 2022 - 1º Semestre  | Pro4Tech |
  | [3º Semestre](https://github.com/thaleskerber/portifolio-tg#3sem)  | 2022 - 2º Semestre  | Embraer |
  | [4º Semestre](https://github.com/thaleskerber/portifolio-tg#4sem)  | 2023 - 1º Semestre  | IonicHealth |
- | 5° Semestre  | 2023 - 2º Semestre  | Imagem |
+ | [5° Semestre](https://github.com/thaleskerber/portifolio-tg#5sem)  | 2023 - 2º Semestre  | Imagem |
 
  
 <br />
@@ -446,8 +446,8 @@ O projeto integrador desenvolvido no quinto semestre do curso foi feito com a em
 
 <br />
 
- ![React Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br />
-> Utilizado como framework para o desenvolvimento do frontend.
+ ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br />
+> Utilizado como framework para o desenvolvimento do aplicativo mobile.
 
 <br />
 
@@ -456,7 +456,7 @@ O projeto integrador desenvolvido no quinto semestre do curso foi feito com a em
 
 <br />
 
- ![MongoDB](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br />
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br />
 > Utilizado como banco de dados do projeto.
 
 <br />
@@ -474,18 +474,18 @@ Nesse projeto eu atuei como Product Owner (PO) e também como um dos desenvolved
 > Sei fazer com autonomia.
 
 - ### Desenvolvimento mobile em React Native
-> Sei fazer com autonomia.
+> Sei fazer com pesquisa.
 
 - ### Banco de Dados - MongoDB
 > Sei fazer com autonomia
 
 ## Soft Skills
 
-- ### Colaboração
-> Nesse projeto mantive minha função de PO e utilizei essa skill para, além de manter um canal de comunicação preciso com o cliente, participar do desenvolvimento de partes críticas do sistema.
+- ### Autoaprendizagem
+> Essa skill foi utilizada para conseguir aprender mais sobre o funcionamento do React Native, principalmente sobre seus componentes nativos e outras questões referentes ao seu funcionamento.
 
-- ### Organização
-> Habilidade utilizada para manter minha nova equipe organizada e em sintonia com os requisitos a serem desenvolvidos.
+- ### Adaptabilidade
+> Habilidade utilizada para conseguir adaptar a nova tecnologia que utilizamos, uma vez que apesar dela manter estruturas e ser similar ao React, houveram desafios no começo do projeto para conseguisse desenvolver da melhor forma possível.
 
-- ### Comunicação
-> Utilizei essa skill nesse projeto de forma mais aprimorada, após mudar de equipe tive que moldar novos relacionamentos com a equipe e também ser sempre o mais claro possível.
+- ### Trabalho em equipe
+> Essa habilidade foi e está sendo essencial para o desenvolvimento do projeto, uma vez que todos estamos desenvolvendo com uma tecnologia nova, o React Native, e com isso houve a necessidade de aprimorar ainda mais essa skill para manter a produtividade e sinergia da equipe.
