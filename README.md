@@ -12,7 +12,7 @@
  
 <img align="right" src="https://avatars.githubusercontent.com/u/26208169?s=400&u=f6ea7d7b7ecf97876c976de51673c978508626c6&v=4" alt="Foto de perfil" width="150"/>
 
-Atualmente sou estudante do curso superior de Análise e Desenvolvimento de Sistemas e estou no penúltimo período da faculdade.
+Atualmente sou estudante do curso superior de Análise e Desenvolvimento de Sistemas e estou cursando o último período da faculdade.
 Meu interesse na área de programação começou durante o ensino médio, quando comecei a aprender e programar em Java para desenvolver modificações para o jogo Minecraft. Antes de entrar na faculdade minha experiência profissional foi apenas trabalhando como auxiliar de loja em uma farmácia em meu bairro, onde aprendi a desenvolver algumas habilidades de comunicação e organização.
 
 Durante o segundo semestre da faculdade, consegui um estágio com a empresa parceira Pro4Tech, que participou do Projeto Integrador desenvolvido no segundo semestre, e continuo trabalhando nela até hoje. No período do estágio adquiri um contato maior com a metodologia ágil e também aprendi a trabalhar com novas tecnologias que não são abordadas na faculdade, como o .NET por exemplo.
@@ -99,6 +99,7 @@ Alguns dos cursos realizados e certificados.
  | [3º Semestre](https://github.com/thaleskerber/portifolio-tg#3sem)  | 2022 - 2º Semestre  | Embraer |
  | [4º Semestre](https://github.com/thaleskerber/portifolio-tg#4sem)  | 2023 - 1º Semestre  | IonicHealth |
  | [5° Semestre](https://github.com/thaleskerber/portifolio-tg#5sem)  | 2023 - 2º Semestre  | Imagem |
+ | [6° Semestre](https://github.com/thaleskerber/portifolio-tg#6sem)  | 2024 - 1º Semestre  | Altave |
 
  
 <br />
@@ -489,3 +490,66 @@ Nesse projeto eu atuei como Product Owner (PO) e também como um dos desenvolved
 
 - ### Trabalho em equipe
 > Essa habilidade foi e está sendo essencial para o desenvolvimento do projeto, uma vez que todos estamos desenvolvendo com uma tecnologia nova, o React Native, e com isso houve a necessidade de aprimorar ainda mais essa skill para manter a produtividade e sinergia da equipe.
+
+
+<br />
+
+---
+
+<div name="6sem"></div>
+
+<div align='center'>
+
+## :star: Projeto Integrador 6º Semestre - ProjetoIA
+ 
+</div>
+
+> [Repositório do Projeto](https://github.com/CodeLabFatec/ProjetoIA)
+
+O projeto integrador desenvolvido no sexto semestre foi feito em parceira com a empresa Altave, de São José dos Campos. O objetivo do projeto realizado foi o desenvolvimento de uma inteligência artifical (IA) capaz de monitorar o fluxo de entrada e saída de pessoas de uma determinada área restrita (Redzone) e disponibilizar para os gerentes e seguranças relatórios a partir desses dados. O sistema contempla, além da IA, um site com cadastros de usuários e seus respectivos níveis de acesso, cadastro de áreas e cadastro de redzones, também disponibilizando dashboards e exportação dos dados brutos para excel.
+
+<br />
+
+## Demonstrações
+
+<br />
+
+## Tecnologias Utilizadas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br />
+> Utilizado para o desenvolvimento do backend.
+
+<br />
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <br />
+> Utilizado como framework para o desenvolvimento do backend.
+
+<br />
+
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br />
+> Utilizado para o desenvolvimento do frontend.
+
+<br />
+
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) <br />
+> Utilizado como framework para o desenvolvimento do frontend.
+
+<br />
+
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br />
+> Utilizada como runtime para o desenvolvimento.
+
+<br />
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br />
+> Utilizado para o desenvolvimento da IA.
+
+<br />
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <br />
+> Utilizado como banco de dados do projeto.
+
+<br />
+
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br />
+> Utilizado para versionamento e armazenamento do código e documentação.
