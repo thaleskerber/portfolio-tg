@@ -553,3 +553,33 @@ O projeto integrador desenvolvido no sexto semestre foi feito em parceira com a 
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br />
 > Utilizado para versionamento e armazenamento do código e documentação.
+
+## Contribuições Pessoais
+Nesse projeto eu atuei como Scrum Master, auxiliando a equipe como um facilitador, priorizando os impedimentos que surgem ao longo do desenvolvimento e também participando do desenvolvimento de algumas features e correções necessárias para desafogar a equipe.
+
+## Hard Skills
+
+- ### Desenvolvimento com Spring Boot (Spring Boot)
+> Sei fazer com autonomia.
+
+- ### Desenvolvimento com VueJS (Typescript)
+> Sei fazer com autonomia.
+
+- ### Desenvolvimento em Python
+> Sei fazer com pesquisa
+
+- ### Banco de Dados - MySQL
+> Sei fazer com autonomia
+
+
+## Soft Skills
+
+- ### Habilidades de Facilitação
+> Essa skill foi desenvolvida ao longo de cada sprint, durante as cerimônias scrum (daily e retrospective), além de sempre estar disponível para auxiliar a equipe a lidar com impedimentos.
+
+- ### Resolução de Conflitos
+> Habilidade utilizada para identificar, mediar e encontrar soluções para conflitos e impedimentos que surgem ao longo das sprints.
+
+- ### Empatia
+> Essa skill fica aparente quando o ambiente criado dentro do time é positivo e colaborativo, além de todos saberem seu potencial e contribuirem para o andamento do projeto, sempre de forma respeitosa e autônoma.
+
