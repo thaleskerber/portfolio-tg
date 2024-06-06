@@ -313,6 +313,8 @@ Nesse projeto eu atuei como Product Owner (PO), construindo o backlog do produto
 
 ## Soft Skills
 
+As Soft Skills abaixo foram bastante importantes sendo um PO por conta das dificuldades encontradas ao longo do projeto sobre o entendimento geral de como o cálculo deveria ser realizado, então precisei organizar, comunicar, colaborar e focar no trabalho em equipe para garantirmos que a entrega fosse satisfatória.
+
 - ### Colaboração
 > Além das funções exercidas como PO, colaborei no desenvolvimento de atividades de frontend e também em discussões sobre a realização do cálculo.
 
@@ -511,6 +513,8 @@ O projeto integrador desenvolvido no sexto semestre foi feito em parceira com a 
 <br />
 
 ## Demonstrações
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/b5afeb08-b09b-4299-91e5-d947d4096e13
 
 <br />
 
